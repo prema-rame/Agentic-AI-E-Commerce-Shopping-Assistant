@@ -1,0 +1,11 @@
+Laptop FAQ
+
+Python programming support: The catalog laptops listed with an Intel Core i5, AMD Ryzen 5/7, or Apple M1 processor can run Python 3 and common editors such as VS Code. 16 GB RAM is recommended for comfortable multitasking. These products are consumer laptops, not dedicated servers.
+
+Machine learning compatibility: Introductory Python notebooks, scikit-learn, and small CPU-based machine-learning exercises can run on the listed laptops. Training large deep-learning models locally is not guaranteed; use a cloud GPU for larger workloads. Dedicated graphics are only present when explicitly listed in the product specification.
+
+Battery details: Battery-life figures in the catalog are manufacturer or illustrative estimates. Actual runtime varies with screen brightness, workload, wireless use, and battery age. CPU-intensive coding and model training reduce runtime.
+
+Warranty information: Warranty terms vary by brand, seller, and region. Confirm the current warranty and return policy with the retailer before purchase. Keep the invoice and serial number for service requests.
+
+Online classes: All listed laptops support browser-based video meetings when connected to the internet. Camera quality and microphone specifications should be confirmed on the manufacturer's product page.
